@@ -1,0 +1,3 @@
+rootProject.name = "VideoApp"
+include ':app'
+include ':api'
